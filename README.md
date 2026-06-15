@@ -61,6 +61,4 @@ Correlation does not imply causation. Market relationships can change over time,
 - Yahoo Finance data availability can vary by ticker and date.
 - The analysis uses daily returns, not raw prices, because returns are more appropriate for comparing assets with different price scales.
 
-## License
 
-Add a license before publishing if you want others to reuse the project. The MIT License is a common choice for educational notebooks.
